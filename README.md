@@ -11,4 +11,4 @@ Shampoo dataset:
 https://www.kaggle.com/krish525/open-time-series-data
 
 Student dataset:
-https://www.kaggle.com/spscientist/students-performance-in-exams 
+http://roycekimmons.com/tools/generated_data/exams
