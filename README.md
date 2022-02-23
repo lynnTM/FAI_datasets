@@ -9,3 +9,6 @@ https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
 Shampoo dataset:
 https://www.kaggle.com/krish525/open-time-series-data
+
+Student dataset:
+https://www.kaggle.com/spscientist/students-performance-in-exams 
